@@ -33,3 +33,9 @@ body{
 .bg-light {
     background-color: #dbb08d !important;
 }
+
+.table .thead-dark th{
+    color:f loralwhite;
+    background-color:rgb(117, 64, 20)
+}
+tr:hover {background-color:#dbb08db0!important}
